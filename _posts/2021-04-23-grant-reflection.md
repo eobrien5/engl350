@@ -1,4 +1,4 @@
- ##Grant Reflection
+ ## Grant Reflection
  
 Our Grant project is a site that compiles social media data about Esports and displays it visually. We look at 4 different social media platforms and compare the popularity of the Esports community and a number of individual programs/teams. With this API data, we then examine cross platform metrics to gain an understanding as to where this community resides and how we can spread it to reach a larger audience. 
  
