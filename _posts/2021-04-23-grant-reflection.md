@@ -15,6 +15,8 @@ With this project coming to a close, it is fascinating to think about where I am
 The readings were probable the most helpful aspect of the class in order to get to the (limited) understanding I have today. Although it has only been one semester, I feel if there was a “most improved” award, I would be in the running. When looking at the DH projects in class, and then going home and reading different angles of the same topic, this process helped me round out a fuller picture of that it means to be a digital humanist. 
 	
 One of my favorite projects we examined this year was “What is Digital Humanities” by Jason Heppler. I spent way too much time refreshing the page trying to understand how so many people can define the same phrase so many different ways. I also really enjoyed reading “A DH That Matters” by Matthew Gold. The topics covered were so interesting and the addition of the annotations took it above and beyond. 
+
+![My tweet about What is DH](https://eobrien5.github.io/engl350/images/teiPic.png)
 	
 To that point, it was at times more helpful to me to think about what it means to be a person involved in DH rather than how to meet a set of criteria to create a project. Digital humanists have a way of writing and communicating their topics such that it is easy to understand and feels more personable. A foreign yet refreshing experience from the stiff academic writing students are used to.
 
