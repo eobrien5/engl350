@@ -4,6 +4,9 @@ Our Grant project is a site that compiles social media data about Esports and di
  
 This project has gone through multiple iterations and changes through our work on it. Initially, we wanted to look at professional sports leagues such as the MLB and NFL. This was going to be harder though because they are already larger and more established. Also, they are not exactly digital. When we had the idea to transition to Esports, we knew it was the right move. Esports, by nature, is much more ingrained in the digital world and still has lots of potential for growth.
 
+![Chart of Esports Growth](https://eobrien5.github.io/engl350/images/Esprots.jpeg)
+
+
 Once we made this change, we both became even more excited about this project. Starting off with professional sports, we were both interested because we are athletes here at CNU. In talking to each other and Dr. Stover, we realized Esports is much more applicable and this only added to our interest. 
 
 In the search to find similar projects, there is nothing we can find that compiles all this data the way we plan to. Many projects look at just the social media engagement or just an individual Esports player’s success. Interestingly enough, both of these categories are usually measured in dollars. Our project wants to shift the focus from revenue, to a growing and engaged community of people that enjoy playing with each other. 
