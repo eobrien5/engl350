@@ -16,7 +16,7 @@ The readings were probable the most helpful aspect of the class in order to get 
 	
 One of my favorite projects we examined this year was “What is Digital Humanities” by Jason Heppler. I spent way too much time refreshing the page trying to understand how so many people can define the same phrase so many different ways. I also really enjoyed reading “A DH That Matters” by Matthew Gold. The topics covered were so interesting and the addition of the annotations took it above and beyond. 
 
-![My tweet about What is DH](https://eobrien5.github.io/engl350/images/teiPic.png)
+![My tweet about What is DH](https://eobrien5.github.io/engl350/images/67136145-44B7-4A57-8390-02ED77876E18_1_201_a.jpeg)
 	
 To that point, it was at times more helpful to me to think about what it means to be a person involved in DH rather than how to meet a set of criteria to create a project. Digital humanists have a way of writing and communicating their topics such that it is easy to understand and feels more personable. A foreign yet refreshing experience from the stiff academic writing students are used to.
 
